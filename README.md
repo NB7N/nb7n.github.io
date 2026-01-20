@@ -1,7 +1,3 @@
-# nb7n.github.io
-Project B
-v0.01
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
